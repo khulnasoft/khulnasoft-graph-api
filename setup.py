@@ -38,7 +38,7 @@ setuptools.setup(
     name="khulnasoft_graph_api",
     version=version,
     author="KhulnaSoft",
-    author_email="khulnasoft_graph_api@khulnasoft.com",
+    author_email="info@khulnasoft.com",
     description="The official Python client library for KhulnaSoft Graph API",
     license="Apache 2",
     long_description=long_description,
